@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+httpx
+a2a-sdk
+google-auth
